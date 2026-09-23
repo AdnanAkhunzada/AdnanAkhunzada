@@ -10,7 +10,9 @@
   <a href="https://www.linkedin.com/in/adnan-akhunzada/">LinkedIn</a> •
   <a href="https://orcid.org/0000-0001-8370-9290">ORCID</a> •
   <a href="https://scholar.google.com/citations?user=9L9UAVcAAAAJ">Google Scholar</a>
-</p>
+  <a href="https://www.researchgate.net/profile/Adnan-Akhunzada">ResearchGate</a>
+  <a href="https://loop.frontiersin.org/people/3025920/overview">Loop</a>
+  </p>
 
 ---
 

@@ -9,7 +9,6 @@ AI security · trustworthy and generative AI · cyber threat intelligence · sec
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-akhunzadaadnan%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)
 ---
-About
 I work on making intelligent systems secure, and on using AI to defend networks and infrastructure. My research covers the security of AI itself (generative AI threats, LLM and RAG security, AI-generated text and deepfake detection, agentic AI evaluation) and AI for cyber defence (threat intelligence, intrusion and malware detection for IIoT and SDN). Over 17+ years I have worked across the UK, Europe, the Middle East, Asia and New Zealand, moving between university research, EU and Swedish industrial projects, and academic programme leadership.
 200+ scholarly works, 6,250+ citations, h-index 43, i10-index 122 (Google Scholar)
 Stanford–Elsevier World's Top 2% Scientists (2023)
@@ -338,44 +337,6 @@ React • Next.js • Data Visualization
 Jupyter • LaTeX • Overleaf
 Experimentation • Reproducibility • MLOps
 ```
-
----
-
-# 🌟 Research Impact
-
-<p align="center">
-
-### 230+
-
-**Peer-Reviewed Publications**
-
-### 41–42
-
-**h-index**
-
-### 112
-
-**i10-index**
-
-### $13.1M+
-
-**Competitive Research Funding**
-
-### 47.7M+
-
-**QAR Research Portfolio**
-
-### 1
-
-**Granted US Patent**
-
-### Top 2%
-
-**Scientists Worldwide**
-
-</p>
-
----
 
 # 🎓 Academic Leadership
 

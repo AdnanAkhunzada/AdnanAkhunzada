@@ -2,17 +2,46 @@
 
 ### `AI × Cybersecurity × Trustworthy Intelligence × Future Digital Infrastructure`
 
-<p align="center">
-  <strong>Professor & Chair • Cybersecurity & Artificial Intelligence • Researcher • Inventor • Technology Architect</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adnan-akhunzada/">LinkedIn</a> •
-  <a href="https://orcid.org/0000-0001-8370-9290">ORCID</a> •
-  <a href="https://scholar.google.com/citations?user=9L9UAVcAAAAJ">Google Scholar</a> •
-  <a href="https://www.researchgate.net/profile/Adnan-Akhunzada">ResearchGate</a> •
-  <a href="https://loop.frontiersin.org/people/3025920/overview">Loop</a>
-  </p>
+AI security · trustworthy and generative AI · cyber threat intelligence · secure networked systems · post-quantum cryptography
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
+![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8370--9290-A6CE39?style=flat-square&logo=orcid&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-adnan--akhunzada-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)
+![Email](https://img.shields.io/badge/Email-akhunzadaadnan%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)
+---
+About
+I work on making intelligent systems secure, and on using AI to defend networks and infrastructure. My research covers the security of AI itself (generative AI threats, LLM and RAG security, AI-generated text and deepfake detection, agentic AI evaluation) and AI for cyber defence (threat intelligence, intrusion and malware detection for IIoT and SDN). Over 17+ years I have worked across the UK, Europe, the Middle East, Asia and New Zealand, moving between university research, EU and Swedish industrial projects, and academic programme leadership.
+200+ scholarly works, 6,250+ citations, h-index 43, i10-index 122 (Google Scholar)
+Stanford–Elsevier World's Top 2% Scientists (2023)
+Co-inventor, U.S. Patent 10,581,604 B2, post-quantum cryptographic communication protocol
+Work Package Lead, EU Horizon 2020 ASTRID · Technical Work Package Lead, Vinnova IIoTSP · Co-PI, Vinnova SALLP and SALLPI, with ABB, Ericsson and Volvo
+9 PhD and 24 research master's graduates supervised or co-supervised
+Research focus
+Security of AI — generative AI threats · LLM and RAG security · adversarial machine learning · AI-generated text and deepfake detection · agentic AI evaluation
+AI for cyber defence — cyber threat intelligence · intrusion and malware detection · security analytics · ethical hacking and penetration testing
+Secure infrastructure — IoT, IIoT and IoMT security · edge and fog computing · SDN security · 5G and 6G vehicular networks · cyber-physical systems
+Cryptography — post-quantum and applied cryptography · trusted computing and remote attestation
+Featured work
+Work	What it is	Evidence
+Post-quantum cryptographic communication protocol	Granted U.S. patent (2020), co-invented at COMSATS	US 10,581,604 B2
+T-eye proactive threat intelligence	Cyber threat intelligence platform benchmarked against IBM QRadar	J. Parallel Distrib. Comput. 2019
+QoS-aware fog controller	Service provisioning for process-industry automation, with ABB and Ericsson	J. Netw. Comput. Appl. 2020
+ASTRID (EU Horizon 2020)	Security orchestration for virtualised services; Work Package Lead at DTU	CORDIS 786922
+Fog-Computing-Data-set	10K–100K synthetic IoT task records for fog/edge/cloud scheduling experiments	Repository
+Selected publications
+From benchmarks to deployment: a comprehensive review of agentic AI evaluation. Artificial Intelligence Review 59:167, 2026.
+Cascaded cross-attention vision transformers with wavelet-based encodings for deepfake detection. International Journal of Computer Vision 134:221, 2026.
+Generative AI: a double-edged sword in the cyber threat landscape. Artificial Intelligence Review 58:285, 2025.
+AI-generated text detection: a comprehensive review of methods, datasets, and applications. Computer Science Review 58:100793, 2025.
+Hybrid deep learning based threat intelligence framework for Industrial IoT systems. Journal of Industrial Information Integration 45:100846, 2025.
+Deep AI-powered cyber threat analysis in IIoT. IEEE Internet of Things Journal 10(9):7749–7760, 2023.
+Securing software defined networks: taxonomy, requirements, and open issues. IEEE Communications Magazine 53(4):36–44, 2015.
+Full record: Google Scholar · ORCID · DBLP
+Published datasets
+DWSD: Dense Waste Segmentation Dataset. Data in Brief, 2025.
+Ego-SLD: egocentric action recognition for Bengali sign language detection. IEEE Data Descriptions, 2025.
+PSL-CFRT: multi-view dataset for continuous Pakistani sign language fingerspelling. ITIKD, IEEE, 2025.
+Multi-IsnadSet (MIS) for Sahih Muslim Hadith. Data in Brief, 2024.
 
 ---
 

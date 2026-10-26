@@ -3,7 +3,7 @@
   assets/banner.png is the 1500x400 lavender banner for this profile. Keep it in the
   repository at assets/banner.png or the banner below will not render.
   GitHub strips inline CSS, so colour elsewhere on this page comes from badge images.
-<div align="center">
+  <div align="center">
 <img src="assets/banner.png" alt="Decorative banner: a white shield with a check mark at the centre of a violet network graph on a lavender gradient" width="100%">
 Adnan Akhunzada, PhD
 Professor of Cybersecurity & Artificial Intelligence
